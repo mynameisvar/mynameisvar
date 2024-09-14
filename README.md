@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **C# and Rust**
 
 - 👨‍💻 All of my projects are available at [Click](https://github.com/mynameivar/repositories)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

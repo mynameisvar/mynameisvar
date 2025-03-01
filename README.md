@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at LiteDays<br>🌱 I’m currently learning Rust
+🔭 I’m currently working at LiteDays
 
 
 # 💻 Tech Stack:
